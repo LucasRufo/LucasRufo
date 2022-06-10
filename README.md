@@ -1,18 +1,11 @@
-### Olá, me chamo Lucas Rufo 👋
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRufo&langs_count=12&layout=compact&theme=dark" align="right">
 
-Sou desenvolvedor desde 2019. Sou um grande fã de tecnologias Web e estou sempre buscando conhecimento! :books:
+## Hello, I'm Lucas Rufo 💻
 
-Busco não me limitar a certa tecnologia, então sempre estou disposto a aprender novas stacks, mas meu conhecimento principal, atualmente está focado nessas tecnologias:
+I have been working as a software engineer since 2019 and I currently live in São Paulo, Brazil.
 
-* .NET e C#
-* Orientação a Objetos e SOLID
-* HTML, CSS e Javascript
-* Angular
-* React
-* SQL Server
-* Bootstrap e TailwindCSS
-* AWS
-* TFS e Git
+I like to learn new technologies and to keep track of all the topics I've learnt or that I want to learn someday, hence this [repo](https://github.com/LucasRufo/estudos-pocs) (almost all the content is written in Portuguese).
 
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-30b947?style=flat-square&labelColor=30b947&logo=whatsapp&logoColor=white&link=https://wa.me/5511958889686)](https://wa.me/5511958889686)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-rufo)](https://www.linkedin.com/in/lucas-rufo)
+Currently, I'm working mostly with .NET and C#, but I have a strong will to learn and work with Go at some point.
+
+If you'd like to talk to me, please hit me up on [Twitter](https://twitter.com/lu_rufo) or [LinkedIn](https://www.linkedin.com/in/lucas-rufo).
