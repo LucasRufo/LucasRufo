@@ -4,7 +4,7 @@
 
 I have been working as a software engineer since 2019 and I currently live in São Paulo, Brazil.
 
-I like to learn new technologies and to keep track of all the topics I've learnt or that I want to learn someday, hence this [repo](https://github.com/LucasRufo/estudos-pocs) (almost all the content is written in Portuguese).
+I like to learn new technologies and to keep track of all the topics I've learnt or that I want to learn someday, hence this [repo](https://github.com/LucasRufo/notes) (almost all the content is written in Portuguese).
 
 Currently, I'm working mostly with .NET and C#, but I have a strong will to learn and work with Go at some point.
 
