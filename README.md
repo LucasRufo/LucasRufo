@@ -1,4 +1,4 @@
-### Hello, I'm Lucas Rufo 💻
+## Hello, I'm Lucas Rufo 💻
 
 I have been working as a software engineer since 2019 and I currently live in São Paulo, Brazil.
 
